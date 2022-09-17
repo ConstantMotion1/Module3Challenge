@@ -2,19 +2,23 @@
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
+This project was built to generate random passwords for whenever nessessary. The motivation of this project was to implement the javascript skills learned during module 3. 
+How to pull from variables and run functions with conditional statements was learned.
+This project solves the problem of having to comeup with a strong password that includes many character criteria.
 
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
+To use this project:
+- click 'Generate Password'
+- follow prompts and alerts correctly
+- randomized password will be created
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative file path, add it to your README using the following syntax:
+[alt text](assets/images/Capture.PNG)
+[alt text](assets/images/Capture2.PNG)
+[alt text](assets/images/Capture3.PNG)
+[alt text](assets/images/Capture4.PNG)
 
-![alt text](assets/images/screenshot.png)
+
+
 
